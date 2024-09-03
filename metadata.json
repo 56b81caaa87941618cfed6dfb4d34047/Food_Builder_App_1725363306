@@ -4,5 +4,6 @@
     "project_description": "an app for building the Food",
     "creation_time": "2024-09-03 11:35:06.308142",
     "current_state": "The current state of the application has a navbar and a header",
-    "selected_starter_template_id": "landwind"
+    "selected_starter_template_id": "landwind",
+    "frontend_theme_prompt": "The image utilizes vibrant shades of pink, purple, and black to create a surreal outer space landscape with an ethereal and futuristic style. The glowing celestial bodies and reflective surfaces enhance the dreamy atmosphere."
 }
