@@ -8,6 +8,12 @@
         "div_id": ""
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Free' button to be positioned within the app?\", \"option1\": \"At the top of the screen\", \"option2\": \"At the bottom of the screen\"}, {\"question 2\": \"What action should be triggered when the 'Free' button is clicked?\", \"option1\": \"Open a new page\", \"option2\": \"Display a pop-up message\"}], \"input_token_count\": 289, \"output_token_count\": 95, \"time_taken\": \"0:00:01.329060\"}",
+        "timestamp": "03092024113549",
+        "message_id": "guest03092024113539"
+    },
+    {
         "role": "user",
         "content": "add a button with text Free",
         "timestamp": "03092024113544",
