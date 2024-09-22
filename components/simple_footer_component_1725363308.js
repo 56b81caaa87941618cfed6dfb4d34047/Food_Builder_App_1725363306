@@ -20,6 +20,12 @@ INSTRUCTION: Both of these lines are center aligned.
                 <div id="footer-text" class="flex-1 block text-sm text-center text-gray-500 dark:text-gray-400">
                     © 2023 FoodCraft. Empowering culinary creativity, one dish at a time.
                 </div>
+                <div class="flex-1 mt-4">
+                    <button class="bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded-lg shadow-md transition duration-300 ease-in-out">
+                        Nine
+                    </button>
+                </div>
+            </div>
             </div>
         </div>
     </footer>
