@@ -1,5 +1,11 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where do you want the button with text 'Nine' to be placed in the app?\", \"option1\": \"At the top of the screen\", \"option2\": \"At the bottom of the screen\"}, {\"question 2\": \"What color or style do you envision for the 'Nine' button?\", \"option1\": \"Bright color to stand out\", \"option2\": \"A more subtle, neutral tone\"}], \"input_token_count\": 313, \"output_token_count\": 99, \"time_taken\": \"0:00:01.166020\"}",
+        "timestamp": "22092024085449",
+        "message_id": "guest22092024085442"
+    },
+    {
         "role": "user",
         "content": "add a button with text Nine",
         "timestamp": "22092024085445",
